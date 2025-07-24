@@ -1,0 +1,30 @@
+{
+  "name": "protfolio",
+  "version": "1.0.0",
+  "main": "script.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujaynayek/Protfolio.git"
+  },
+  "keywords": [],
+  "author": "Sujay Nayek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujaynayek/Protfolio/issues"
+  },
+  "homepage": "https://github.com/sujaynayek/Protfolio#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.2"
+  }
+}
